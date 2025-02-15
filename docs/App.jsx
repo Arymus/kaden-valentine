@@ -14,7 +14,7 @@ function App() {
       return (
         <>
           <main className="flex justify-center align-center">
-            <img src="./src/marriage-certificate.png" className="w-[85vw] h-[100vh]" />
+            <img src="./docs/marriage-certificate.png" className="w-[85vw] h-[100vh]" />
           </main>
         </>
       )
