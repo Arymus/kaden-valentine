@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-gothic: "UnifrakturMaguntia", "sans-serif";
+}
